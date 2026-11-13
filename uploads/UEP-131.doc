@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#UEP-131] Production - View Quote</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://ccpvl.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://ccpvl.atlassian.net/browse/UEP-32">Production user</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://ccpvl.atlassian.net/browse/UEP-32">UEP-32</a>)</span>
+                <h3 class="formtitle"><img src="https://ccpvl.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [UEP-131]&nbsp;<a href="https://ccpvl.atlassian.net/browse/UEP-131">Production - View Quote</a>
+            <span class="subText">
+               Created: 01/Mar/24                   &nbsp;Updated: 16/Apr/24
+
+                                                    &nbsp;Resolved: 16/Apr/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://ccpvl.atlassian.net/secure/BrowseProject.jspa?id=10004">Uphold Earth Project</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://ccpvl.atlassian.net/browse/UEP-32">Production user</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0c3f1f18-7927-463d-9daa-6cf657e33474"
+                id="word_reporter_712020:0c3f1f18-7927-463d-9daa-6cf657e33474"
+                href="https://ccpvl.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0c3f1f18-7927-463d-9daa-6cf657e33474">
+                    Anusuya
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:81b28188-89e6-43a8-adc8-cdbaf3428e5f"
+                id="word_assignee_712020:81b28188-89e6-43a8-adc8-cdbaf3428e5f"
+                href="https://ccpvl.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A81b28188-89e6-43a8-adc8-cdbaf3428e5f">
+                    Kavinilavu
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10173-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10173-value" class="value" bgcolor="#ffffff" width="80%">      0|i000gd:i
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10173-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10173-value" class="value" bgcolor="#ffffff" width="80%">    1
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>As a Production user, I want to review the details of each quote, including any attached documents or comments, to ensure accuracy and completeness after approving it.</p>
+
+<p><b>Acceptance criteria:</b></p>
+
+<ol>
+	<li>When clicking into 'Quote' on the dashboard, it will navigate the user to the Quote Listing Page titled 'Quote'.</li>
+	<li>The view screen page should display the title as "Quote." It will feature a Hero section containing details such as Inquiry number &amp; date, account name, contact person, and Quote number. Users should be able to click on the Account name or Contact person, which will help redirect them to the respective account name or contact person page. The page will consist of four tabs: "Details," "Inquiry," "Invoice," and "History."</li>
+	<li>The "Details" tab will include information such as Quote issue date, Quote valid date, Expected Delivery date and Purchase order details.</li>
+	<li>The "Products" tab will provide details of the inquiry date, including Product name &amp; Code, Quantity, Available Quantity, and Action</li>
+	<li>If the quantity of stocks is fully available as per customer request, then this action should trigger the "Package" option. Clicking on this option will direct the user to the Packaging Requisition. Once the quote number is filled, the Packaging requisition will automatically be populated from the quote, and it should not be in editable form. Once the packaging is completed, the stock will be reduced from the stock list.</li>
+	<li>If the quantity of Finished stocks is partially available or not available as per the customer request, then this action should display the "View" option. Clicking on this option will direct the user to a new page to view product details. The product details will include information on Finished goods, Semi-Finished goods, and Raw materials used to make the product, along with their individual quantities.</li>
+	<li>If the quantity of Finished stocks is partially available as per the customer request, then this action should trigger the "View" option. Clicking on this option will direct the user to the Product details. If the customer requests partial goods to be delivered in advance, then the user should have a checkbox to select partial packages. This will allow the user to edit the quantity, ensuring it does not exceed the available quantity in stock. If the edited quantity exceeds the available stock quantity, an error message should be displayed stating "Insufficient Quantity".</li>
+	<li>If the quantity of Semi-finished stocks is fully available as per the customer request to convert them into fully finished stock, then this action should display the "View" option. Clicking on this option will direct the user to a new page to view product details. Upon viewing the Semi-finished stock, the user should have a "Work order" button. Clicking the work order button will direct the user to create a work order, in which the relevant details will be automatically filled. Additionally, the user can create a work order for intermediate activity by clicking the checkbox on the left side.</li>
+	<li>If the quantity of Semi-finished stocks is partially available as per the customer request to convert them into fully finished stock, then this action should display the "View" option. Clicking on this option will direct the user to a new page to view product details. Upon viewing the Semi-finished stock, the user should have a "Work order" button. Clicking the work order button will direct the user to create a work order, in which the relevant details will be automatically filled. The user can create a work order for initial or intermediate activity by clicking the checkbox on the left side. If the raw material is not sufficient to make these products, then an attention popup notification will be displayed, stating "Insufficient quantity."</li>
+	<li>If the quantity of Semi-finished stocks also not available as per the customer request to convert them into fully finished stock, then this action should display the "View" option. Clicking on this option will direct the user to a new page to view product details.</li>
+	<li>Upon viewing the raw material stock, the user should have a "Work order" button. Clicking the work order button will direct the user to create a work order, in which the relevant details will be automatically filled. The user can create a work order for initial activity by clicking the checkbox on the left side.</li>
+	<li>If the quantity of Raw material stocks also not available or insufficient as per the customer request to convert them into fully finished stock, then this action should display the "View" option. Clicking on this option will direct the user to a new page to view product details. Upon viewing the raw material stock, the user should have a "Requisition" button. Clicking the work order button will direct the user to create a requisition, in which the relevant details will be automatically filled.</li>
+	<li>Once the work order is created and the artisan is assigned by the supervisor, the packaging requisition is generated and shared with the inventory department based on the assigned work order.</li>
+	<li>The "Invoice" tab will contain details about the proforma invoice created before the purchase order. If the purchase order is generated before the proforma invoice, this section will remain blank.</li>
+	<li>The "Payment" tab will present reverse chronology information related to the payment details.</li>
+	<li>The "History" tab will present reverse chronology information related to the inquiry.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Wed Apr 24 05:00:18 UTC 2024 by Aarthi Amala using Jira 1001.0.0-SNAPSHOT#100251-rev:1799943389865e673b0a2c8607653e705b66f09c.
+
+</body>
+</html>

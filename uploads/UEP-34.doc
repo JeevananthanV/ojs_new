@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#UEP-34] Production - Adding Work Order</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://ccpvl.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://ccpvl.atlassian.net/browse/UEP-32">Production user</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://ccpvl.atlassian.net/browse/UEP-32">UEP-32</a>)</span>
+                <h3 class="formtitle"><img src="https://ccpvl.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [UEP-34]&nbsp;<a href="https://ccpvl.atlassian.net/browse/UEP-34">Production - Adding Work Order</a>
+            <span class="subText">
+               Created: 06/Nov/23                   &nbsp;Updated: 17/Apr/24
+
+                                                    &nbsp;Resolved: 23/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://ccpvl.atlassian.net/secure/BrowseProject.jspa?id=10004">Uphold Earth Project</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://ccpvl.atlassian.net/browse/UEP-32">Production user</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0c3f1f18-7927-463d-9daa-6cf657e33474"
+                id="word_reporter_712020:0c3f1f18-7927-463d-9daa-6cf657e33474"
+                href="https://ccpvl.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0c3f1f18-7927-463d-9daa-6cf657e33474">
+                    Anusuya
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:81b28188-89e6-43a8-adc8-cdbaf3428e5f"
+                id="word_assignee_712020:81b28188-89e6-43a8-adc8-cdbaf3428e5f"
+                href="https://ccpvl.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A81b28188-89e6-43a8-adc8-cdbaf3428e5f">
+                    Kavinilavu
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10076-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Blocks</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                blocks
+            </td>
+            <td>
+                <a href="https://ccpvl.atlassian.net/browse/UEP-33">
+                     <strike>UEP-33</strike>                 </a>
+            </td>
+            <td>
+                Production - Work Order List
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10076-value" class="value" bgcolor="#ffffff" width="80%">      0|i000gn:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10076-value" class="value" bgcolor="#ffffff" width="80%">UEP Sprint 8</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10076-value" class="value" bgcolor="#ffffff" width="80%">    2
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>As a Production user with Work Order listing capability, I should be able to view existing work orders so that I can use them as a reference to create work orders.</p>
+
+<p><b>Acceptance criteria:</b></p>
+
+<ol>
+	<li>When the user clicks on 'Work Order' on the previous listing page, they will navigate to the next page to create a work order.</li>
+	<li>Adding work order for Artisan will have following fields,
+	<ol>
+		<li>Quote No - Optional - Can be entered manually. Once the quotation number is filled, the other details (such as Product material, Product name, Product Code, Product Descriptions, Product Materials, Size, Color) should be automatically populated from the database.</li>
+		<li>Work order Number - Mandated - System should auto-generate in ascending order. Should have Alphanumeric with minimum 6 characteristics (i.e. WO0004)</li>
+		<li>The user should have Routing Options to choose either with Artisan or Branch.</li>
+		<li>Production Centre - Mandated - This is field should have a search bar to search production centre.  Creating new production centre will take the user to new page <a href="https://ccpvl.atlassian.net/browse/UEP-149" title="smart-link" class="external-link" rel="nofollow noreferrer">https://ccpvl.atlassian.net/browse/UEP-149</a></li>
+		<li>Centre InCharge - Once the production centre is selected, the Centre InCharge will be filled automatically from the data given in the Name of InCharge information.</li>
+		<li>Deadline - Mandated - The date picker should be in the format mm/dd/yyyy; with the first three letters of the months displayed. (eg JUN 26, 2023)</li>
+		<li>Product name - Mandated - The system should automatically fill the information from the Quote.</li>
+		<li>Product Code - Mandated - The system should automatically fill the information from the Quote.</li>
+	</ol>
+	</li>
+	<li>Adding Activity details will include options for Primary Part, Value Addition Part, Finishing or Accessories Part, with a checkbox provided on the left side. Users can check the appropriate box and enter the quantity corresponding to the chosen activity.</li>
+	<li>Adding Product details will have following fields and there should be Add button to add products,
+	<ol>
+		<li>Raw Material - Mandated - The system should automatically fill the information from the Quote.</li>
+		<li>Product Size - Mandated – The system should automatically populate the information from the Quote.</li>
+		<li>Product Color - Mandated – The system should automatically populate the information from the Quote.</li>
+		<li>Product Descriptions - Mandated – The system should automatically populate the information from the Quote.</li>
+	</ol>
+	</li>
+	<li>If the required fields are left blank, the 'submit' button will not be enabled, and an error message 'This field is required' will be displayed.</li>
+	<li>By Clicking submit, the details should be shared to Supply chain management manager so that he/she can assign supervisor and thus the supervisor will assign artisan based on the activity. The assignment and allocation of work orders based on the availability of artisans will be exclusively handled by the SCM.</li>
+	<li>Once an artisan is assigned, the production user will be notified, stating that "Artisans are assigned to particular work order WO0253." By clicking on this notification, the user should be directed to the respective work order page, which will be in view mode. Clicking on the artisan card on the work order page should redirect the user to the packaging requisition form. This functionality assists the production user in creating a packaging requisition for the specific work order.</li>
+</ol>
+
+
+<p>2. Adding work order for Branch will have following fields,</p>
+
+<ol>
+	<li>Quote No - Optional - Can be entered manually. Once the quotation number is filled, the other details (such as Product material, Product name, Product Code, Product Descriptions, Product Materials, Size, Color) should be automatically populated from the database.</li>
+	<li>Work order Number - Mandated - System should auto-generate in ascending order. Should have Alphanumeric with minimum 6 characteristics (i.e. WO0004)</li>
+	<li>The user should have Routing Options to choose either with Artisan or Branch.</li>
+	<li>Deadline - Mandated - The date picker should be in the format mm/dd/yyyy; with the first three letters of the months displayed. (eg JUN 26, 2023)</li>
+	<li>Product name - Mandated - The system should automatically fill the information from the Quote.</li>
+	<li>Product Code - Mandated - The system should automatically fill the information from the Quote.</li>
+	<li>Adding Activity details will include options for Primary Part, Value Addition Part, Finishing or Accessories Part, with a checkbox provided on the left side. Users can check the appropriate box and enter the quantity corresponding to the chosen activity.</li>
+	<li>Adding Product details will have following fields and there should be Add button to add products,
+	<ol>
+		<li>Raw Material - Mandated - The system should automatically fill the information from the Quote.</li>
+		<li>Product Size - Mandated – The system should automatically populate the information from the Quote.</li>
+		<li>Product Color - Mandated – The system should automatically populate the information from the Quote.</li>
+		<li>Product Descriptions - Mandated – The system should automatically populate the information from the Quote.</li>
+	</ol>
+	</li>
+	<li>If the required fields are left blank, the 'submit' button will not be enabled, and an error message 'This field is required' will be displayed.</li>
+	<li>By Clicking submit, the details should be shared to Supply chain management manager so that he/she can assign supervisor and thus the supervisor will assign branch based on the activity.</li>
+	<li>Once the branch is assigned, the production user will be notified, stating that "Branch are assigned to particular work order WO0253." By clicking on this notification, the user should be directed to the respective work order page, which will be in view mode. Clicking on the branch card on the work order page should redirect the user to the packaging requisition form. This functionality assists the production user in creating a packaging requisition for the specific work order.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Wed Apr 24 05:25:04 UTC 2024 by Aarthi Amala using Jira 1001.0.0-SNAPSHOT#100251-rev:1799943389865e673b0a2c8607653e705b66f09c.
+
+</body>
+</html>
